@@ -1,0 +1,1 @@
+./darknet detector train ./data/datasyn.data ./cfg/datasyn.cfg ./yolov4.weights -clear 1 -gpus 0
