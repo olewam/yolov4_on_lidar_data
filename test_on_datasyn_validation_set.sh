@@ -1,4 +1,5 @@
-./darknet detector map ./data/datasyn.data ./cfg/datasyn.cfg ./yolov4.weights
+# Use the weight file trained on the datasyn dataset. Link to download in report
+./darknet detector map ./data/datasyn.data ./cfg/datasyn.cfg ./backup/datasyn_14000.weights
 
 # or
 
