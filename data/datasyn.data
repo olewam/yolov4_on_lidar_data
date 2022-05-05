@@ -1,0 +1,5 @@
+classes=9
+train  = ./data/datasyn_train_set.txt
+valid  = ./data/datasyn_val_set.txt
+names = ./data/datasyn.names
+backup = ./backup/
